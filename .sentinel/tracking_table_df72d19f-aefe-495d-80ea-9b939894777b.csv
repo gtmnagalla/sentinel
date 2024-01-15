@@ -1,0 +1,13 @@
+FileName, CommitSha
+3-Analytics Rules/Log4j+vulnerability+exploit.json,91917d9c313c783a8a6d202b9176fffabd28c98f
+5-Playbooks/Block-AADUser-Incident.json,1ed9f3319f2d33aa1c632eb17280a854942234c6
+6-Automation Rules/Run-ChatGPT-Playbook.json,ddf46a2692825289e76fd09995a2d5c4bab437c7
+3-Analytics Rules/Azure+Diagnostic+settings+removed+from+a+resource.json,c7accd2d5e54b8c03aff6307f635b88463bb068f
+3-Analytics Rules/Process executed from binary hidden in Base64 encoded file.json,a8511c66ba312654378a63d419a936f8e7f8356b
+3-Analytics Rules/User+agent+search+for+log4j+exploitation+attempt.json,f919b0ab7db2b52a01c2f3f3aa848530d2bf63cb
+5-Playbooks/MicrosoftSentinel-ChatGPT-Playbook.json,328f46ab8b5e1eafa93513b1e9d321c7ca9326f8
+7-Workbooks/Data Collection Rule Toolkit.json,829a80a23ecf41d0e3c23767bb2137a2a6b8fb34
+3-Analytics Rules/NRT Process executed from binary hidden in Base64 encoded file.json,99f736ea509f1d2614359f4a0e9bfe7276ab1227
+4-Hunting queries/BlackCatRansowmare.json,491b9c8e181d1c00e3cce3bc85456f54217c39b9
+2-Parsers/Repository+Parser.json,cc4fae23499eb1908bbf617874d5cd9ca8e6a44d
+
